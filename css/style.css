@@ -3,9 +3,9 @@
 body {
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
     font-family: 'Poppins', sans-serif;
     color: #1E1E2A
-    overflow-x: hidden;
 }
 
 /*HEADER*/
