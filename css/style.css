@@ -5,6 +5,7 @@ body {
     padding: 0;
     font-family: 'Poppins', sans-serif;
     color: #1E1E2A
+    overflow-x: hidden;
 }
 
 /*HEADER*/
